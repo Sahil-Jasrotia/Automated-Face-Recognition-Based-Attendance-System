@@ -12,4 +12,3 @@
 
 •	Bringing this idea to the real world helps the common man to effectively and efficiently record attendance and this system helps the whole organization to evolve and achieve what is necessary by eliminating the monotonous and repetitive tasks.
 
-![image](https://user-images.githubusercontent.com/56066703/202724847-9f61d7b5-e2f1-4b90-bd5b-1bb0a0f0b5c0.png)
